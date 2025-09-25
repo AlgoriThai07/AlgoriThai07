@@ -27,16 +27,17 @@
 ---
 
 ## 🛠️ Tech Toolbox  
-**Languages:** C, C++, C#, Java, Python, JavaScript, TypeScript, Go, R, SQL, HTML/CSS  
-**Frameworks:** FastAPI, Flask, Node.js, Spring Boot, React, pandas, NumPy, scikit-learn, Matplotlib  
-
+- **Languages:** C, C++, C#, Java, Python, JavaScript, TypeScript, Go, R, SQL, HTML/CSS
+- **Frameworks:** FastAPI, Flask, Node.js, Spring Boot, React, pandas, NumPy, scikit-learn, Matplotlib  
+- **Databases & AI/ML Tools:** PostgreSQL, Redis, MongoDB, Parquet, Airflow, XBRL, OCR, ChromaDB, LangChain, RAG, LoRA
+- **Cloud & DevOps:** Docker, Kubernetes, AWS, Google Cloud, CI/CD, Git, Postman, GoogleTest, Linux, PyCharm, Eclipse
 ---
 
 ## 📂 Featured Projects  
-- 💳 **Fintech Simulation** – backend for a mock trading system (Java/Spring Boot)  
+- 💳 **Findeep** – Fine-tuning LLMs on financial analysis tasks
 - 🔑 **BidCancelingService** – e-bidding cancellation logic (Spring Boot)  
 - 🌐 **OmniGames** – Node.js + Express full-stack project  
-- ⚙️ **Word Ladder Solver** – shortest path in C (UIC Project)  
+- ⚙️ **Open Street Maps** – find the shortest path using Dijkstra in C++ (UIC Project)  
 ---
 
 ## 🏆 Stats & Highlights  
