@@ -22,7 +22,7 @@
 - 📚 Prepare for **career in SWE/Fintech/Data Engineering**
 - 🍳 Build my own **cooking page** to share recipes and food stories
 - 📸 Publish a **photo portfolio site** alongside my coding projects
-- 🏃‍♂️ Train for **Chicago Marathon HM 202\***  
+- 🏃‍♂️ Train for **Chicago Marathon 202\***  
 
 ---
 
@@ -34,9 +34,9 @@
 ---
 
 ## 📂 Featured Projects  
-- 💳 **Findeep** – Fine-tuning LLMs on financial analysis tasks
-- 🔑 **BidCancelingService** – e-bidding cancellation logic (Spring Boot)  
-- 🌐 **OmniGames** – Node.js + Express full-stack project  
+- 💳 **Findeep(https://github.com/AlgoriThai07/Findeep)** – Fine-tuning LLMs on financial analysis tasks
+- 🔑 **Esmart(https://github.com/tridinhbui/esmart-solutions-agency)** – A platform for agencies to manage clients, projects, and workflows efficiently (Node.js + PostgreSQL).  
+- 🌐 **FinBud AI(https://github.com/finbud2024/Finbud)** – A platform for financial analysis and management.  
 - ⚙️ **Open Street Maps** – find the shortest path using Dijkstra in C++ (UIC Project)  
 ---
 
