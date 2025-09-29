@@ -34,9 +34,9 @@
 ---
 
 ## 📂 Featured Projects  
-- 💳 **Findeep(https://github.com/AlgoriThai07/Findeep)** – Fine-tuning LLMs on financial analysis tasks
-- 🔑 **Esmart(https://github.com/tridinhbui/esmart-solutions-agency)** – A platform for agencies to manage clients, projects, and workflows efficiently (Node.js + PostgreSQL).  
-- 🌐 **FinBud AI(https://github.com/finbud2024/Finbud)** – A platform for financial analysis and management.  
+- 💳 **[Findeep](https://github.com/AlgoriThai07/Findeep)** – Fine-tuning LLMs on financial analysis tasks
+- 🔑 **[Esmart](https://github.com/tridinhbui/esmart-solutions-agency)** – A platform for agencies to manage clients, projects, and workflows efficiently (Node.js + PostgreSQL).  
+- 🌐 **[FinBud AI](https://github.com/finbud2024/Finbud)** – A platform for financial analysis and management.  
 - ⚙️ **Open Street Maps** – find the shortest path using Dijkstra in C++ (UIC Project)  
 ---
 
